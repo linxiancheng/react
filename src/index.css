@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.box,.pinglun,.pinglun-xs{
+	max-width: 600px;
+	margin: 10px auto 0 auto;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+	padding: 30px;
+	border-radius: 5px;
+}
+.pinglun button{
+	float: right;
+	border: none;
+	background: blue;
+	color: #fff;
+	box-sizing: border-box;
+	padding:5px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.pinglun input{
+	float: right;
+	width: 80%;
+	height: 35px;
+	border-radius: 5px;
+	border:1px solid #ccc;
+	box-sizing: border-box;
+}
+.pinglun textarea{
+	float: right;
+	width: 80%;
+	height: 200px;
+	border-radius: 5px;
+	border:1px solid #ccc;
+	box-sizing: border-box;
+}
+.xian{
+	border-bottom: 1px solid #ccc;
+	line-height: 25px;
+	box-sizing: border-box;
+	padding-bottom: 50px;
+}
+.xian span{
+	color: blue;
+}
+.qc{
+	clear: both;
+}
+.ma-t{
+	margin-top: 10px;
+}
